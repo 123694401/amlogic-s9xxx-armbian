@@ -57,7 +57,7 @@ on:
         type: choice
         options:
           - -ophub
-          - -yourname
+          - -kernel
 
 env:
   TZ: America/New_York
